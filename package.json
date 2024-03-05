@@ -1,0 +1,14 @@
+{
+  "name": "data-science-sabbat",
+  "type": "module",
+  "packageManager": "yarn@4.1.1",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "chart.js": "^4.4.2",
+    "danfojs-node": "^1.1.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-berry": "^0.15.5"
+  }
+}

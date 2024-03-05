@@ -1,0 +1,153 @@
+Data Series,2013 ,2014 ,2015 ,2016 ,2017 ,2018 ,2019 ,2020 ,2021 
+All Items,2.4,1,-0.5,-0.5,0.6,0.4,0.6,-0.2,2.3
+  Food,2.1,2.9,1.9,2.1,1.4,1.4,1.5,1.9,1.4
+  Food Excl Food Serving Services,2.3,3,1.2,2.3,1.3,1.3,1.1,2.9,1.6
+    Bread & Cereals,1.5,1.6,1.3,1.3,0.6,1.4,1.5,1.9,0.6
+      Rice,na,na,-0.9,0.8,-0.5,1.4,3.9,1.8,-1.9
+      Flour,na,na,-0.9,1.1,0.3,-1.9,-0.2,-2.1,-2
+      Bread,na,na,2,1.8,0.6,1.6,1.1,1,1.1
+      Noodles & Pasta,na,na,-1.2,1,0.1,0.5,-0.7,2,1.2
+      Biscuits & Cookies,na,na,1.5,2.1,1.1,1.6,1.3,4.2,0.4
+      Cakes & Pastries,na,na,3,0.7,1.5,2,1.5,2.3,1.5
+      Other Cereals,na,na,0.3,1.4,-0.3,-0.1,0.9,1.2,1.3
+    Meat,1,1.7,0.7,2.1,0.6,-0.1,0.1,5.5,0.3
+"      Pork, Chilled",na,na,0.7,3.5,0,0.1,-0.2,8,-0.9
+"      Beef, Chilled",na,na,2.2,2.1,2.6,-0.2,0,3.4,4.8
+"      Mutton, Chilled",na,na,2,0.5,0,1.1,5,10.1,-1.2
+"      Poultry, Chilled",na,na,-0.3,3.6,0.9,-0.5,0,1.5,1.5
+"      Meat, Frozen",na,na,-0.2,-1.5,-1,-1.7,-0.4,7.5,-2
+      Meat Preparations,na,na,1.6,0.7,1.2,0.8,0.6,5.4,0.9
+    Fish & Seafood,3.2,2.8,1.5,4.4,2.5,2.6,1.4,1,0.5
+"      Fish, Chilled",na,na,2.2,5,3.3,2.8,1.5,0.9,0.3
+"      Fish, Frozen",na,na,5.6,8.2,5.6,2.3,-1.3,0,1
+      Other Seafood,na,na,0.8,3.3,1.7,2,1.2,-0.2,0.9
+      Seafood Preparations,na,na,-0.2,3.4,0.9,2.5,1.4,3.1,0.4
+"    Milk, Cheese & Eggs",4.3,5.1,2,1.7,0.6,1.6,0.4,1.9,1.5
+      Formula Milk Powder,na,na,4.8,3.5,1.3,0.4,0,0.1,0.3
+      Other Milk & Dairy Products,na,na,-0.5,0.9,0.8,2.6,-0.1,4,1.2
+      Eggs,na,na,1.8,-1.8,-2.5,2.3,4,-0.2,5.2
+    Oils & Fats,-0.8,0.6,-0.5,-1.5,0.2,3.4,0.6,1.8,1.2
+      Butter & Other Fats,na,na,0.5,-0.4,2.5,7.4,0.7,0.2,1.9
+      Cooking Oils,na,na,-1,-2,-0.9,1.4,0.6,2.4,1
+    Fruits,4.4,7.6,1.8,2.4,2.7,1.9,2,1.7,2.7
+"      Tropical Fruits, Fresh",na,na,1.5,4.4,2.8,3.2,3.7,3.2,0.1
+"      Citrus, Berries & Other Fruits, Fresh",na,na,2.5,0.8,2.8,1.4,1.3,0.9,5.1
+      Preserved Fruits & Nuts,na,na,0.4,3.1,2,0.6,0.2,0.8,0.5
+    Vegetables,2.8,3.4,0.9,4,1.5,-0.1,2,5,5.2
+"      Leafy Vegetables, Fresh",na,na,1,5.9,-0.1,-0.1,2.5,3.7,9.1
+"      Fruit Vegetables, Fresh",na,na,2,2.8,1.4,1,3.1,6.3,7.8
+"      Root Vegetables, Fresh",na,na,1.4,6.2,3.5,-1,1.4,5.7,0.5
+      Other Vegetables & Preparations,na,na,-0.1,1.1,2,-0.3,1,5.6,0.9
+"    Sugar, Preserves & Confectionery",-0.3,-0.5,0.9,1.7,2,1.4,-0.2,5.2,0.6
+      Sugar,na,na,-1.1,-0.2,3.7,0.5,-0.4,0.7,0.9
+      Confectionery & Ice-Cream,na,na,1.2,1.9,1.7,1.5,-0.6,6.5,0.4
+      Sugar Preserves & Spread,na,na,0.9,2,1.9,1.7,2,2.5,1.3
+    Non-Alcoholic Beverages,1.1,1,0.3,0.2,0.5,1.2,1.6,3.6,1.6
+      Coffee & Tea,na,na,-0.1,0.8,-0.2,1.5,0.7,1,2.2
+      Soft Drinks,na,na,0.1,-0.7,0.2,0.7,3.3,5.6,1.2
+      Other Beverages,na,na,0.9,0.5,1.3,1.2,0.8,4.9,1.5
+    Other Food,1.4,2.4,1.8,2.1,1.1,1.7,0.4,1.3,1.5
+  Food Serving Services,2,2.9,2.3,1.9,1.5,1.5,1.7,1.4,1.4
+    Restaurant Food,2.4,2.4,3.2,2.3,1.1,1.7,1.8,1.5,1.1
+    Fast Food,1,3.5,1.7,2.2,1.1,0.3,1.6,1.4,1.6
+    Hawker Food,1.9,3.1,1.9,1.7,1.7,1.5,1.7,1.3,1.5
+      Hawker Centres,na,na,na,na,na,na,na,1.6,1.4
+      Food Courts & Coffee Shops,na,na,na,na,na,na,na,1.2,1.5
+    Catered Food,0.9,1.3,0.2,0.7,1.7,1.1,4.9,1.6,0.7
+  Clothing & Footwear,0.3,-0.8,0.1,0.2,0.6,1.4,-0.8,-3.8,-5.5
+    Clothing,0.4,-1.4,-0.4,0.9,0.2,1.1,-1.1,-3.7,-5.6
+"      Men's Clothing",na,na,0.8,0.7,-1.7,0.8,-1.6,-4.5,-3.4
+"      Women's Clothing",na,na,-1.3,1.1,1.4,1.1,-0.7,-3.6,-6.4
+"      Children's Clothing",na,na,1.5,0.5,-1,1.6,-2.4,-2.6,-6.5
+    Other Articles & Related Services,-0.1,2.4,0.1,0.1,1.2,0.8,-0.6,-0.7,-2.6
+    Footwear,0.3,0.6,1.5,-2.1,1.8,2.7,0.5,-5,-6
+"      Men's Footwear",na,na,0.2,0.6,1.7,2,1.3,-5.5,-4.9
+"      Women's Footwear",na,na,2.7,-4.4,2.2,3.7,-0.7,-5.3,-7.3
+"      Children's Footwear",na,na,0.4,-2.2,-0.2,1.2,3.4,-0.3,-3.5
+  Housing & Utilities,2.8,0.1,-3.5,-4.1,-2.5,-1.3,-1,-0.3,1.4
+    Accommodation,4.1,0.3,-2.6,-3.5,-4,-3.1,-0.9,0.4,1.4
+    Utilities & Other Fuels,-3.8,-1.3,-9.8,-8.2,8.7,10.4,-1.3,-5.5,1
+      Water Supply,na,na,0,0,7.6,14.9,6.8,0,0
+      Refuse Collection,na,na,20.9,0,10.2,0,0,0,0
+      Electricity,na,na,-15.1,-13,9.3,10.4,-5.6,-9.2,0.7
+      Gas,na,na,-10.8,-4.4,7.6,4.9,0,-3.7,5.9
+  Household Durables & Services,4.9,1.8,-0.6,1.8,1.1,0.8,0.8,0.3,1.5
+    Household Durables,0.3,0.7,0.5,0.3,-1.1,-0.4,-0.4,0,1.6
+      Furniture,na,na,1.2,1.3,-0.6,0,0.4,0.4,2.2
+      Furnishings,na,na,-0.3,-0.4,-0.7,0.6,1.5,-0.2,3
+      Other Household Textiles,na,na,2,-1.4,-1.5,-1.5,-1.6,-0.8,-2
+      Household Appliances,na,na,0,0.1,-2,-1,-1.4,-0.8,2.1
+      Utensils & Others,na,na,-0.9,-0.1,0.1,0.8,0.3,1.6,-0.1
+    Household Services & Supplies,6.7,2.1,-1.3,2.7,2.3,1.5,1.5,0.5,1.4
+      Non-Durable Household Goods,na,na,-0.8,-0.7,-0.2,0.6,-0.1,1,-1
+      Domestic & Household Services,na,na,-1.4,3.5,2.8,1.6,1.8,0.4,1.8
+  Health Care,3.8,2.8,-0.1,1.1,2.5,2,1.1,-1.5,1.1
+    Medicines & Health Products,2.2,0.8,0.8,-0.1,-0.1,0.2,-0.9,-1.4,0
+      Medicines & Vitamins,na,na,1.1,0.2,0,0.3,-1.3,-1.9,0.3
+      Medical Products,na,na,0,-0.8,-0.4,-0.4,0.3,0.1,-0.8
+    Outpatient Services,3.3,2.1,-3.9,2.8,2.5,1.8,1.5,-3.5,0.3
+      Fees At Polyclinics,na,na,-45.5,1.9,2,0.6,-0.2,-10.9,-0.5
+      Fees At General Practitioners (GP) Clinics,na,na,-2.4,2.1,2.3,2,0.9,-22.4,-5.5
+      Fees At Specialist Outpatient Clinics,na,na,-2,2.9,2.2,2,2.3,-0.2,0.5
+      Dental Services,na,na,-1.1,1.5,1.4,1.5,0,-4.8,2.3
+      Paramedical Services,na,na,1.8,4.4,3.8,1.7,2.1,1.1,0.9
+    Hospital Services,4.5,5.4,3.1,0.3,4.4,3.8,2.1,1.5,1.5
+    Health Insurance,6.8,2.5,0,0.5,1.6,0.4,0.1,0,4.9
+  Transport,2.3,-1.2,-1.4,-2.4,2.6,-0.5,0.8,-0.7,8.8
+    Private Transport,2.7,-2,-2.2,-3,4.2,-0.6,0.3,-1.4,11.4
+      Cars,na,na,-1.9,-5,0,-5,0.9,1,14.4
+      Motorcycles,na,na,20.5,3.4,-0.1,-1.1,-18.3,17.6,18.7
+      Petrol,na,na,-4.7,-3.9,9.1,6.7,0.1,-7.3,17.7
+      Other Private Transport,na,na,-1.7,0.8,8.2,1,0.6,-4.7,-2.2
+    Public Transport,0.4,2,2.1,-0.1,-2.2,-1,2.5,3.1,1.8
+      Bus & Train Fares,na,na,2.6,-0.9,-4.2,-2.1,4.4,7,0
+      Point-To-Point Transport Services,na,na,0.3,0.3,0,0,0,-1,4.6
+      Other Public Transport,na,na,5.1,3.7,2.3,1.6,0.4,-2.3,-0.4
+    Other Transport Services,3.2,1.1,-3.1,-2.3,0,1.5,0.7,-3.1,4
+      Air Fares,na,na,-3.1,-2.4,-0.1,1.5,0.7,-3.4,4.1
+      Other Transport,na,na,-2.3,-0.7,1.5,1.4,0.7,6,3.1
+  Communication,-1.4,-0.2,0.3,-0.4,0.6,-1,-0.9,0.7,-0.6
+    Postage & Courier Services,0,3.6,5,0,0,0,0,2.5,-9.3
+    Telecommunication Equipment,-0.7,1,0.2,1.5,-1,-6,-10.4,-1.5,-3.8
+    Telecommunication Services,-1.4,-0.3,0.3,-0.5,0.6,-0.8,-0.5,0.8,-0.3
+  Recreation & Culture,1.1,1.8,0.3,0.9,0.3,1.2,1.1,-1.8,1
+    Recreational & Cultural Goods,-1.1,0.4,-0.2,-0.5,-0.9,-0.4,-1.5,-0.8,-0.3
+      Information Processing Equipment,na,na,-0.4,-0.7,-0.9,-2.5,0.1,-0.8,-3.2
+      Audio-Visual Equipment & Others,na,na,-2.3,-1.3,-3.6,1.2,-9.4,-6.4,2.6
+      Games & Toys,na,na,1,-1,-0.2,-2.1,2.5,1,-2.1
+      Pets & Related Products,na,na,0.2,-0.2,1.9,1.4,0.2,0.3,0.3
+      Other Recreational & Cultural Goods,na,na,1.2,0.9,0.3,1,0.7,1.4,1.8
+    Recreational & Cultural Services,3.7,2.5,0.5,0.5,0.7,1.1,1.3,-0.2,1.2
+      Sport Services & Other Fees,na,na,0.5,2.1,1.7,0.7,1.5,-0.5,2
+      Cinema Tickets,na,na,3,-4.4,0.5,1.9,3.8,4.1,2.5
+      Charges To Places Of Interest,na,na,-7.9,1.5,2.5,3.5,1.7,-9.4,2.3
+      Other Recreational & Cultural Services,na,na,1,0.2,-0.7,1,0.2,0,-0.6
+"    Newspapers, Books & Stationery",0.2,0.3,1.5,5.1,1.1,0,0.2,0.5,0.3
+      Newspapers & Magazines,na,na,-0.1,12,2,-0.1,0.1,0,0
+      Books & Stationery,na,na,2.6,0.2,0.3,0.1,0.3,0.8,0.4
+    Holiday Expenses,0.5,2,0.2,1.2,0.4,2,2,-3,1.4
+      Package Tours,na,na,-0.1,0.7,-0.4,1.7,2.4,-1.3,1.3
+      Hotels & Other Expenses,na,na,1.7,3.2,3.3,3.1,0.4,-7.3,1.5
+  Education,3.8,3.4,3.4,3.1,3,2.9,2.4,-0.6,1.3
+    Tuition & Other Fees,4,3.5,3.5,3.1,3.1,2.9,2.4,-0.6,1.3
+      Primary Education,na,na,-2.9,-1,0,0,0,0,0
+      Secondary Education,na,na,-4.8,-0.6,2.3,-0.3,-0.2,0.4,0
+"      Other General, Vocational & Higher Education",na,na,3.4,2.6,3.1,3.7,2.2,-2.4,0.9
+      Enrichment & Supplementary Courses,na,na,5.9,5,3.5,2.4,3.4,2.6,2.5
+    Textbooks & Study Guides,0.5,1.9,0.6,0.8,0.5,0,-0.5,0.4,-0.1
+  Miscellaneous Goods & Services,1.9,1.2,0,0.3,0.1,1,0.4,-1.2,-0.5
+    Personal Care,1.1,-0.3,-0.4,0,-1,-0.1,0.7,-0.1,-1.5
+      Hairdressing,na,na,0.9,0.5,0.7,0,1.5,-0.1,-0.2
+      Personal Grooming Services,na,na,0.3,0.3,0.5,-0.2,0.1,0.7,0.4
+      Other Personal Care,na,na,-1.1,-0.2,-2.1,-0.1,0.7,-0.3,-2.6
+    Alcoholic Drinks & Tobacco,0.5,5.9,1,0.2,0.3,5,0.4,-1,-0.1
+      Spirits & Wine,na,na,-2,-0.2,0.8,-1.8,-2,-2.4,0.3
+      Beer,na,na,2,-0.9,-2.6,-2.7,-1,-3.8,-0.9
+      Cigarettes,na,na,1.5,0.4,0.7,7.6,1.1,-0.1,0
+    Personal Effects,-0.2,0.1,-1.2,1.4,2.4,-0.6,-0.6,-5.1,1.6
+      Jewellery & Watches,na,na,1.1,-0.3,0.3,-1.8,0,-1.7,-1.2
+      Other Personal Effects,na,na,-1.8,1.8,2.9,-0.3,-0.7,-6.9,3.2
+    Social Services,na,na,2.7,0.4,0.1,1.8,0.2,-2.9,-1.8
+    Other Miscellaneous Services,na,na,0.3,-0.1,2.1,0,-0.1,0,0
+All Items Less Imputed Rentals On Owner-Occupied Accommodation,1.9,1.2,0.1,0.3,1.7,1.3,0.9,-0.3,2.5
+All Items Less Accommodation,1.9,1.2,0.1,0.3,1.8,1.4,0.9,-0.3,2.5
